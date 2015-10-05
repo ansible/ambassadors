@@ -1,4 +1,4 @@
-# ambassadors
-A repository of useful materials for Ansible Ambassadors around the world.
+# Ansible Community
+A repository of useful materials for Ansible community members around the world.
 
-The primary purpose of this repo currently is to support the [Ansible Ambassadors Wiki](https://github.com/ansible/ambassadors/wiki).
+One purpose of this repo currently is to support the [Ansible Ambassadors Wiki](https://github.com/ansible/ambassadors/wiki).
